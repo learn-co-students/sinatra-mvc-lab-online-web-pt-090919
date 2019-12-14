@@ -1,4 +1,5 @@
 describe 'class PigLatinizer' do
+  # binding.pry
   let!(:words) { PigLatinizer.new }
 
 
